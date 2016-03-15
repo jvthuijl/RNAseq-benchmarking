@@ -38,6 +38,6 @@ It can then be used as follows:
 `./remFromFasta {FASTAFileTOMutate} {identifiers} > {outputFASTA}`
 
 # Where is the rest?
-Most of the other programs and data files are located in /groups/umcg-wijmenga/tmp04/umcg-jvanthuijl
+Most of the other programs and data files are located in `/groups/umcg-wijmenga/tmp04/umcg-jvanthuijl`
 
 

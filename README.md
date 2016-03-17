@@ -23,7 +23,7 @@ It can then be used as follows:
 
 `./mutations {FASTAFileTOMutate}`
 
-The output is caputered in {FASTAFileTOMutate}_mutated.fa. For testing, the Ensembl release 83 chromosome 22 could be obtained from BioMart. 
+The output is caputered in {FASTAFileTOMutate}_mutated.fa. For testing, the Ensembl release 83 chromosome 22 FASTA file could be obtained from BioMart. 
 
 ## removeFromFASTA
 This program removes certain entities and their code from a FASTA file. It expects two argumtens. The first parameter is the FASTA

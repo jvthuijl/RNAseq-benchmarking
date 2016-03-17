@@ -23,7 +23,7 @@ It can then be used as follows:
 
 `./mutations {FASTAFileTOMutate}`
 
-The output is caputered in {FASTAFileTOMutate}_mutated.fa
+The output is caputered in {FASTAFileTOMutate}_mutated.fa. For testing, the Ensembl release 83 chromosome 22 could be obtained from BioMart. 
 
 ## removeFromFASTA
 This program removes certain entities and their code from a FASTA file. It expects two argumtens. The first parameter is the FASTA
@@ -38,6 +38,6 @@ It can then be used as follows:
 `./remFromFasta {FASTAFileTOMutate} {identifiers} > {outputFASTA}`
 
 # Where is the rest?
-Most of the other programs and data files are located in `/groups/umcg-wijmenga/tmp04/umcg-jvanthuijl`
+Most of the other programs and data files are located in `/groups/umcg-wijmenga/tmp04/umcg-jvanthuijl`. These include programs to rename multiple samples at once, create slurm batch scripts for Kallisto quantification of multiple samples etc. Data files are for example kallisto & hisat indexes, but also templates and resulting data from simulations.
 
 
